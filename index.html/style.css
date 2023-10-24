@@ -1,0 +1,92 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.h2 {
+   text-align: center;
+   margin-left: 620px;
+   padding: 8px;
+   background-color:rgb(135, 168, 250);
+   display: inline-block;
+}
+
+.form{
+    border: 1px solid green;
+    width: 40%;
+    margin-left: 430px;
+    background-color: grey;
+}
+.input{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    box-sizing: border-box;
+}
+.btn{
+    
+    background-color: green;
+    color: aliceblue;
+    padding: 14px 0;
+    margin: 20px 0;
+    border-color: wheat;
+    cursor: pointer;
+    width: 100px;
+    
+
+}
+
+
+
+.btn:hover{
+    opacity: 0.8;
+}
+.btn2{
+    width: auto;
+    padding: 10px 18px;
+    background-color: red;
+    border-color: wheat;
+    margin-right: 130px;
+}
+.imagecontainer {
+   text-align: center;
+   margin: 24px 0 12px 0;
+}
+.avatar{
+    width: 10%;
+    border-radius: 50%;
+}
+.container{
+    padding:8px;
+}
+.psw{
+ float:right;
+}
+ body {
+    background-color: lightblue;
+     
+ }
+ .checkbox{
+    margin-left: 20px;
+ }
+ .loginbutton{
+    margin-left: 70px;
+ }
+ .footer{
+   cursor: pointer;
+    padding-left: 18px;
+    
+ }
+ .gf{
+   margin-right: 43px;
+   cursor: pointer;
+ }
+ .google{
+    height: 35px;
+    width: 35px;
+    border-radius: 50%;
+ }
+ .container2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
